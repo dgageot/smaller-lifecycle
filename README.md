@@ -1,0 +1,1 @@
+Copy of https://github.com/buildpacks/lifecycle with only the code required by the `launcher` binary.
